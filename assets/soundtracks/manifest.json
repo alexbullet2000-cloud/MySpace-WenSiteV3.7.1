@@ -1,0 +1,15 @@
+[
+  {
+    "id": "tekken-7",
+    "title": "Tekken 7",
+    "shortTitle": "T7",
+    "folder": "tekken-7",
+    "cover": "assets/soundtracks/tekken-7/title.jpg",
+    "tracks": [
+      {
+        "title": "Brimstone & Fire 1st",
+        "file": "brimstone-fire-1st.mp3"
+      }
+    ]
+  }
+]

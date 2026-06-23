@@ -1,0 +1,10 @@
+node_modules/
+.env
+data/
+assets/soundtracks/
+*.log
+*.zip
+deploy-*/
+deploy-site*.zip
+server-start.*.log
+server-*.log
